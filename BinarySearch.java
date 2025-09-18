@@ -1,5 +1,5 @@
 public class BinarySearch {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int arr[]={4,6,8,12,14,56};
         int start=0, end=arr.length-1;
         int key=12;

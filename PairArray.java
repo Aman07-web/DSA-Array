@@ -8,7 +8,7 @@ public class PairArray {
             System.out.println();
         }
     }
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int arr[]={2,3,5,7,8};
         printPairs(arr);
     }

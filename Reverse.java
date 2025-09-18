@@ -1,5 +1,5 @@
 public class Reverse {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int arr[]={3,45,667,21,4};
         int first=0;
         int last=arr.length-1;

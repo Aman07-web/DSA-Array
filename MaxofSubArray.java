@@ -18,7 +18,7 @@ public class MaxofSubArray {
         }
         System.out.println("Max sum : "+maxSum);
     }
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int arr[]={2,4,5,6,8};
         maxofSubArr(arr);
     }

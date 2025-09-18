@@ -11,7 +11,7 @@ public class Kadane {
         System.out.println("Our max Subarray sum is : " + ms);
     }
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int arr[] = {-2,-3,4,-1,-2,1,5,-3};
         kandnes(arr); 
     }
